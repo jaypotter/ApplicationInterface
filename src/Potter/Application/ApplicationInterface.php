@@ -7,4 +7,5 @@ namespace Potter\Application;
 interface ApplicationInterface 
 {
     public function runningInConsole(): bool;
+    public function start(): void;
 }
