@@ -3,8 +3,7 @@
     "description": "PHP Application Interface",
     "type": "library",
     "require": {
-        "php": "^8.3",
-        "potter/session-interface": "dev-main"
+        "php": "^8.3"
     },
     "license": "MIT",
     "autoload": {
